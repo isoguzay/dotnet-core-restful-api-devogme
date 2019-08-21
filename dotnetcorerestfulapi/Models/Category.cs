@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace dotnetcorerestfulapi.Models
 {
     public class Category
