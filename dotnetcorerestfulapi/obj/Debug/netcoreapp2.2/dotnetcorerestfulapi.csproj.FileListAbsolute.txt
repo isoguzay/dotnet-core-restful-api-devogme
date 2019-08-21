@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+C:\Projects\LearningZone\devogme\dotnet-core-restful-api-devogme\dotnetcorerestfulapi\obj\Debug\netcoreapp2.2\dotnetcorerestfulapi.csprojAssemblyReference.cache
+C:\Projects\LearningZone\devogme\dotnet-core-restful-api-devogme\dotnetcorerestfulapi\obj\Debug\netcoreapp2.2\dotnetcorerestfulapi.csproj.CoreCompileInputs.cache
+C:\Projects\LearningZone\devogme\dotnet-core-restful-api-devogme\dotnetcorerestfulapi\obj\Debug\netcoreapp2.2\dotnetcorerestfulapi.RazorAssemblyInfo.cache
+C:\Projects\LearningZone\devogme\dotnet-core-restful-api-devogme\dotnetcorerestfulapi\obj\Debug\netcoreapp2.2\dotnetcorerestfulapi.RazorAssemblyInfo.cs
+C:\Projects\LearningZone\devogme\dotnet-core-restful-api-devogme\dotnetcorerestfulapi\obj\Debug\netcoreapp2.2\dotnetcorerestfulapi.AssemblyInfoInputs.cache
+C:\Projects\LearningZone\devogme\dotnet-core-restful-api-devogme\dotnetcorerestfulapi\obj\Debug\netcoreapp2.2\dotnetcorerestfulapi.AssemblyInfo.cs
+C:\Projects\LearningZone\devogme\dotnet-core-restful-api-devogme\dotnetcorerestfulapi\bin\Debug\netcoreapp2.2\dotnetcorerestfulapi.deps.json
+C:\Projects\LearningZone\devogme\dotnet-core-restful-api-devogme\dotnetcorerestfulapi\bin\Debug\netcoreapp2.2\dotnetcorerestfulapi.runtimeconfig.json
+C:\Projects\LearningZone\devogme\dotnet-core-restful-api-devogme\dotnetcorerestfulapi\bin\Debug\netcoreapp2.2\dotnetcorerestfulapi.runtimeconfig.dev.json
+C:\Projects\LearningZone\devogme\dotnet-core-restful-api-devogme\dotnetcorerestfulapi\bin\Debug\netcoreapp2.2\dotnetcorerestfulapi.dll
+C:\Projects\LearningZone\devogme\dotnet-core-restful-api-devogme\dotnetcorerestfulapi\bin\Debug\netcoreapp2.2\dotnetcorerestfulapi.pdb
+C:\Projects\LearningZone\devogme\dotnet-core-restful-api-devogme\dotnetcorerestfulapi\obj\Debug\netcoreapp2.2\dotnetcorerestfulapi.RazorTargetAssemblyInfo.cache
+C:\Projects\LearningZone\devogme\dotnet-core-restful-api-devogme\dotnetcorerestfulapi\obj\Debug\netcoreapp2.2\dotnetcorerestfulapi.dll
+C:\Projects\LearningZone\devogme\dotnet-core-restful-api-devogme\dotnetcorerestfulapi\obj\Debug\netcoreapp2.2\dotnetcorerestfulapi.pdb
+=======
+/Users/ismailoguzhanay/Projects/dotnetcorerestfulapi/dotnetcorerestfulapi/bin/Debug/netcoreapp2.2/dotnetcorerestfulapi.deps.json
+/Users/ismailoguzhanay/Projects/dotnetcorerestfulapi/dotnetcorerestfulapi/bin/Debug/netcoreapp2.2/dotnetcorerestfulapi.runtimeconfig.json
+/Users/ismailoguzhanay/Projects/dotnetcorerestfulapi/dotnetcorerestfulapi/bin/Debug/netcoreapp2.2/dotnetcorerestfulapi.runtimeconfig.dev.json
+/Users/ismailoguzhanay/Projects/dotnetcorerestfulapi/dotnetcorerestfulapi/bin/Debug/netcoreapp2.2/dotnetcorerestfulapi.dll
+/Users/ismailoguzhanay/Projects/dotnetcorerestfulapi/dotnetcorerestfulapi/bin/Debug/netcoreapp2.2/dotnetcorerestfulapi.pdb
+/Users/ismailoguzhanay/Projects/dotnetcorerestfulapi/dotnetcorerestfulapi/obj/Debug/netcoreapp2.2/dotnetcorerestfulapi.csprojAssemblyReference.cache
+/Users/ismailoguzhanay/Projects/dotnetcorerestfulapi/dotnetcorerestfulapi/obj/Debug/netcoreapp2.2/dotnetcorerestfulapi.csproj.CoreCompileInputs.cache
+/Users/ismailoguzhanay/Projects/dotnetcorerestfulapi/dotnetcorerestfulapi/obj/Debug/netcoreapp2.2/dotnetcorerestfulapi.RazorAssemblyInfo.cache
+/Users/ismailoguzhanay/Projects/dotnetcorerestfulapi/dotnetcorerestfulapi/obj/Debug/netcoreapp2.2/dotnetcorerestfulapi.RazorAssemblyInfo.cs
+/Users/ismailoguzhanay/Projects/dotnetcorerestfulapi/dotnetcorerestfulapi/obj/Debug/netcoreapp2.2/dotnetcorerestfulapi.AssemblyInfoInputs.cache
+/Users/ismailoguzhanay/Projects/dotnetcorerestfulapi/dotnetcorerestfulapi/obj/Debug/netcoreapp2.2/dotnetcorerestfulapi.AssemblyInfo.cs
+/Users/ismailoguzhanay/Projects/dotnetcorerestfulapi/dotnetcorerestfulapi/obj/Debug/netcoreapp2.2/dotnetcorerestfulapi.RazorTargetAssemblyInfo.cache
+/Users/ismailoguzhanay/Projects/dotnetcorerestfulapi/dotnetcorerestfulapi/obj/Debug/netcoreapp2.2/dotnetcorerestfulapi.dll
+/Users/ismailoguzhanay/Projects/dotnetcorerestfulapi/dotnetcorerestfulapi/obj/Debug/netcoreapp2.2/dotnetcorerestfulapi.pdb
+>>>>>>> bb850e57a0a1bfad4c7f2b0b008043f2ca4acc9c

@@ -1,28 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ismailoguzhanay/Projects/dotnetcorerestfulapi/dotnetcorerestfulapi/dotnetcorerestfulapi.csproj": {}
+    "C:\\Projects\\LearningZone\\devogme\\dotnet-core-restful-api-devogme\\dotnetcorerestfulapi\\dotnetcorerestfulapi.csproj": {}
   },
   "projects": {
-    "/Users/ismailoguzhanay/Projects/dotnetcorerestfulapi/dotnetcorerestfulapi/dotnetcorerestfulapi.csproj": {
+    "C:\\Projects\\LearningZone\\devogme\\dotnet-core-restful-api-devogme\\dotnetcorerestfulapi\\dotnetcorerestfulapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ismailoguzhanay/Projects/dotnetcorerestfulapi/dotnetcorerestfulapi/dotnetcorerestfulapi.csproj",
+        "projectUniqueName": "C:\\Projects\\LearningZone\\devogme\\dotnet-core-restful-api-devogme\\dotnetcorerestfulapi\\dotnetcorerestfulapi.csproj",
         "projectName": "dotnetcorerestfulapi",
-        "projectPath": "/Users/ismailoguzhanay/Projects/dotnetcorerestfulapi/dotnetcorerestfulapi/dotnetcorerestfulapi.csproj",
-        "packagesPath": "/Users/ismailoguzhanay/.nuget/packages/",
-        "outputPath": "/Users/ismailoguzhanay/Projects/dotnetcorerestfulapi/dotnetcorerestfulapi/obj/",
+        "projectPath": "C:\\Projects\\LearningZone\\devogme\\dotnet-core-restful-api-devogme\\dotnetcorerestfulapi\\dotnetcorerestfulapi.csproj",
+        "packagesPath": "C:\\Users\\mertk\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\LearningZone\\devogme\\dotnet-core-restful-api-devogme\\dotnetcorerestfulapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/ismailoguzhanay/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mertk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Projects\\Assemblies": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
