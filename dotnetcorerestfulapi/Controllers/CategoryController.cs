@@ -15,7 +15,7 @@ namespace dotnetcorerestfulapi.Controllers
         public CategoryController()
         {
             _categories = new List<Category>();
-
+            
             if(_categories.Count == 0){
                 _categories.Add(new Category(){
                     CategoryId = 1,
